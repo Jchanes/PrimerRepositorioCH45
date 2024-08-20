@@ -1,0 +1,33 @@
+html {
+    background: rgb(2, 0, 36);
+    background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+}
+
+#bibliografia {
+    text-align: center;
+    color: aliceblue;
+}
+
+#biggest {
+    color: rgb(165, 42, 42);
+}
+
+#ndbiggest {
+    color: rgba(165, 42, 42, 0.808);
+}
+
+#rdbiggest {
+    color: rgba(165, 42, 42, 0.5);
+}
+
+#rdsmallest {
+    color: rgba(165, 42, 42, 0.534);
+}
+
+#ndsmallest {
+    color: rgba(165, 42, 42, 0.342);
+}
+
+#smallest {
+    color: rgba(165, 42, 42, 0.137);
+}
