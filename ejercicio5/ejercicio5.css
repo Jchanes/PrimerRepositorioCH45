@@ -1,0 +1,28 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    text-align: center;
+    color: aliceblue;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    color: antiquewhite;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 25px;
+    margin-left: 15%;
+    margin-right: 15%;
+    color: wheat;
+}
