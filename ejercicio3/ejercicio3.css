@@ -1,0 +1,48 @@
+#TikTok {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(315deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 1) 0%, rgba(253, 44, 86, 1) 40%, rgba(36, 243, 237, 1) 60%, rgba(255, 255, 255, 1) 100%, rgba(0, 0, 0, 1) 100%);
+}
+
+#Instagram {
+    background: rgb(131, 58, 180);
+    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    /*background: rgb(174, 11, 239);
+    background: linear-gradient(315deg, rgba(174, 11, 239, 1) 0%, rgba(222, 28, 118, 1) 15%, rgba(254, 39, 39, 1) 33%, rgba(253, 18, 122, 1) 50%, rgba(252, 1, 191, 1) 66%, rgba(253, 95, 97, 1) 81%, rgba(254, 188, 2, 1) 100%);
+    */
+}
+
+#Whatsapp {
+    background: rgb(72, 198, 87);
+    background: radial-gradient(circle, rgba(72, 198, 87, 1) 25%, rgba(255, 255, 255, 1) 75%);
+}
+
+#Capcut {
+    background: rgb(0, 0, 0);
+    background: linear-gradient(135deg, rgba(0, 0, 0, 1) 50%, rgba(201, 17, 19, 1) 52%, rgba(76, 35, 98, 1) 72%, rgba(0, 0, 0, 1) 90%);
+}
+
+#Snapchat {
+    background: rgb(255, 255, 255);
+    background: linear-gradient(305deg, rgba(255, 255, 255, 1) 12%, rgba(0, 0, 0, 1) 20%, rgba(255, 252, 1, 1) 25%, rgba(255, 252, 1, 1) 100%);
+}
+
+.logo {
+    height: 200px;
+    width: auto;
+    display: block;
+    margin: auto auto 10% 70%;
+}
+
+h2 {
+    padding-left: 40%;
+    border-bottom: 10px;
+    background-color: gray;
+    font-size: 250%;
+}
+
+p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: large;
+    background-color: rgb(58, 58, 58);
+    color: beige;
+}
