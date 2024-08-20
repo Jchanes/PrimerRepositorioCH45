@@ -1,0 +1,16 @@
+div {
+    display: block;
+}
+
+#estados {
+    background-color: black;
+    color: azure;
+}
+
+#receta {
+    background-color: beige;
+}
+
+#carreras {
+    background-color: aquamarine;
+}
