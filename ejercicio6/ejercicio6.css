@@ -1,0 +1,101 @@
+ .foto {
+     width: 200px;
+     height: auto;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ 
+ body {
+     background-image: url(./ejercicio6img/Yewallpaper.jpeg);
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: 100%;
+     background-attachment: fixed;
+ }
+ 
+ h1,
+ h3,
+ h2 {
+     font-family: 'Kanit';
+     font-display: swap;
+     text-align: center;
+     background-color: rgba(0, 0, 0, 0.363);
+     color: aliceblue;
+ }
+ 
+ p {
+     font-family: 'Roboto';
+     font-size: large;
+     color: aliceblue;
+     padding-left: 15%;
+     padding-right: 15%;
+     background-color: rgba(0, 0, 0, 0.534);
+     background: fixed;
+ }
+ 
+ #albumes,
+ table {
+     width: 75%;
+     margin: 8% auto 8% auto;
+ }
+ 
+ #yeezus,
+ #donda,
+ #latereg,
+ #mencion {
+     font-size
+ }
+ 
+ table,
+ ul {
+     margin-top: 0px;
+     margin-right: 20%;
+     font-family: 'Roboto';
+ }
+ 
+ .albumes,
+ table,
+ li {
+     font-size: 120%;
+     padding-left: 15%;
+ }
+ 
+ .portada {
+     padding: 10%;
+     width: 300px;
+     height: auto;
+     display: block;
+     margin-left: auto;
+ }
+ 
+ #yeezus {
+     background: rgb(252, 255, 248);
+     background: linear-gradient(96deg, rgba(252, 255, 248, 1) 0%, rgba(202, 216, 221, 1) 49%, rgba(194, 210, 216, 1) 53%, rgba(0, 0, 0, 1) 55%, rgba(180, 200, 208, 1) 69%, rgba(255, 0, 0, 1) 70%, rgba(255, 0, 0, 1) 72%, rgba(173, 195, 204, 1) 73%, rgba(167, 191, 201, 1) 100%);
+ }
+ 
+ #donda {
+     background: rgb(252, 255, 248);
+     background: linear-gradient(270deg, rgba(252, 255, 248, 1) 0%, rgba(194, 210, 216, 1) 45%, rgba(202, 216, 221, 1) 45%, rgba(0, 0, 0, 1) 60%, rgba(0, 0, 0, 1) 100%);
+     color: beige;
+ }
+ 
+ #latereg {
+     background: rgb(195, 171, 20);
+     background: linear-gradient(270deg, rgba(195, 171, 20, 1) 20%, rgba(115, 152, 170, 1) 40%, rgba(177, 134, 98, 1) 60%, rgba(99, 49, 25, 1) 80%, rgba(55, 49, 35, 1) 100%);
+     color: rgb(255, 255, 255);
+ }
+ 
+ #mencion {
+     background-color: orange;
+     font-family: Arial, Helvetica, sans-serif;
+     font-weight: bold;
+ }
+ 
+ .enlaces {
+     text-align: center;
+     margin: 0px 0px 0px 0px;
+     padding: 0px 0px 0px 0px;
+     border-top: dotted 1px;
+     background-color: aliceblue;
+ }
